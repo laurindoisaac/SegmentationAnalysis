@@ -1,0 +1,2 @@
+# SegmentationAnalysis
+Professional SegmentationAnalysis platform with SegmentationAnalysis-optimized scalable-architecture and enterprise segmentationanalysis-optimization capabilities
